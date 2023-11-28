@@ -1,0 +1,4 @@
+/home/sergio/Documents/simulation/build/CMakeFiles/rebuild_cache.dir
+/home/sergio/Documents/simulation/build/CMakeFiles/first_simulation.dir
+/home/sergio/Documents/simulation/build/CMakeFiles/edit_cache.dir
+/home/sergio/Documents/simulation/build/CMakeFiles/sim.dir
