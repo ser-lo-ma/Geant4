@@ -2,9 +2,9 @@
 #define GENERATOR_HH
     
 #include "G4VUserPrimaryGeneratorAction.hh"
-#include"G4ParticleTable.hh"
-#include"G4SystemOfUnits.hh"
-#include"G4ParticleGun.hh"
+#include "G4ParticleTable.hh"
+#include "G4SystemOfUnits.hh"
+#include "G4ParticleGun.hh"
 
 class MyPrimaryGenerator : public G4VUserPrimaryGeneratorAction
 {

@@ -4,10 +4,116 @@
 CMakeFiles/sim.dir/action.cc.o
  /home/sergio/Documents/simulation/action.cc
  /home/sergio/Documents/simulation/action.hh
+ /home/sergio/Documents/simulation/generator.hh
+ /home/sergio/Documents/simulation/run.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Units/PhysicalConstants.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Units/SystemOfUnits.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Utility/defs.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/ThreeVector.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/ThreeVector.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Allocator.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AllocatorPool.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AnalysisManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AnalysisManagerState.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AnalysisUtilities.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AnalysisVerbose.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ApplicationState.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AutoLock.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4BaseAnalysisManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4BaseFileManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4BinScheme.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4EnvironmentUtils.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Exception.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ExceptionSeverity.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Fcn.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4GenericAnalysisManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4GenericAnalysisManager.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4GenericFileManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4GenericFileManager.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4GlobalConfig.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4HnInformation.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4HnManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NtupleBookingManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NtupleBookingManager.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4PDefManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ParticleDefinition.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ParticleDefinition.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ParticleGun.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ParticleMomentum.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ParticleTable.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ParticleTable.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ParticleTableIterator.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4PrimaryParticle.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4PrimaryVertex.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4String.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4String.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4SystemOfUnits.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TH1ToolsManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TH2ToolsManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TH3ToolsManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4THnManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4THnManager.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4THnMessenger.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4THnMessenger.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4THnToolsManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4THnToolsManager.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TP1ToolsManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TP2ToolsManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Threading.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ThreeVector.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Tokenizer.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ToolsAnalysisManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ToolsAnalysisManager.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Types.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4UIcommand.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4UIdirectory.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4UImessenger.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4UIparameter.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4UItokenNum.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4UserRunAction.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VAnalysisManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VAnalysisManager.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VFileManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VNtupleManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VPrimaryGenerator.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VTBaseHnManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VTHnFileManager.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VUserActionInitialization.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VUserPrimaryGeneratorAction.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ios.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/globals.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/pwdefs.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/templates.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tls.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/cid
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/cids
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/eqT
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/forit
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/axes
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/axis
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/b1
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/b2
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/b3
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/base_histo
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/h1
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/h1d
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/h2
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/h2d
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/h3
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/h3d
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/histo_data
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/p1
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/p1d
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/p2
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/p2d
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/profile_data
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/mem
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/ntuple_booking
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/typedefs
 CMakeFiles/sim.dir/construction.cc.o
  /home/sergio/Documents/simulation/construction.cc
  /home/sergio/Documents/simulation/construction.hh
+ /home/sergio/Documents/simulation/detector.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Geometry/BasicVector3D.h
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Geometry/Normal3D.h
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Geometry/Plane3D.h
@@ -38,14 +144,20 @@ CMakeFiles/sim.dir/construction.cc.o
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/TwoVector.icc
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AffineTransform.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AffineTransform.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Allocator.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AllocatorPool.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AutoLock.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4BoundingEnvelope.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Box.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Box.icc
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4CSGSolid.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4CollectionNameVector.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4DataVector.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4DataVector.icc
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4DensityEffectCalculator.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4DynamicParticle.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4DynamicParticle.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ElectronOccupancy.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Element.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ElementTable.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ElementVector.hh
@@ -57,6 +169,7 @@ CMakeFiles/sim.dir/construction.cc.o
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4GeomSplitter.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4GeomTypes.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4GlobalConfig.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4HCofThisEvent.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ICRU90StoppingData.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4IonisParamElm.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4IonisParamMat.hh
@@ -65,18 +178,31 @@ CMakeFiles/sim.dir/construction.cc.o
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Log.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4LogicalVolume.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4LogicalVolume.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4LorentzVector.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Material.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4MaterialPropertiesIndex.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4MaterialPropertiesTable.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4MaterialPropertyVector.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4MaterialTable.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NavigationHistory.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NavigationHistory.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NavigationHistoryPool.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NavigationLevel.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NavigationLevel.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NavigationLevelRep.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NavigationLevelRep.icc
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NistElementBuilder.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NistManager.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NistMaterialBuilder.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Normal3D.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4OrderedTable.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4PDefManager.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4PVPlacement.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ParticleDefinition.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ParticleDefinition.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ParticleMomentum.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4PhysicsFreeVector.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4PhysicsModelCatalog.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4PhysicsVector.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4PhysicsVector.icc
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4PhysicsVectorType.hh
@@ -84,26 +210,51 @@ CMakeFiles/sim.dir/construction.cc.o
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Point3D.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Polyhedron.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Pow.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Profiler.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Profiler.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ReferenceCountedHandle.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Region.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Region.icc
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4RotationMatrix.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4SandiaTable.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4SensitiveVolumeList.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Step.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Step.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4StepPoint.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4StepPoint.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4StepStatus.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4SteppingControl.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4String.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4String.icc
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4SystemOfUnits.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Threading.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ThreeVector.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TouchableHandle.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TouchableHistory.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TouchableHistory.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Track.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Track.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TrackStatus.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TrackVector.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Transform3D.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TwoVector.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Types.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4UAdapter.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4UBox.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VGraphicsScene.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VHit.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VHitsCollection.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VPhysicalVolume.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VPhysicalVolume.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VReadOutGeometry.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VSDFilter.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VSensitiveDetector.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VSolid.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VSolid.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VTouchable.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VTouchable.icc
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VUserDetectorConstruction.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VUserTrackInformation.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VisExtent.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Visible.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Visible.icc
@@ -111,11 +262,143 @@ CMakeFiles/sim.dir/construction.cc.o
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VoxelLimits.icc
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ios.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/HepPolyhedron.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/PTL/Globals.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/PTL/Types.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/PTL/Utility.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/geomdefs.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/geomwdefs.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/globals.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/pwdefs.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/templates.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tls.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/trkdefs.hh
+CMakeFiles/sim.dir/detector.cc.o
+ /home/sergio/Documents/simulation/detector.cc
+ /home/sergio/Documents/simulation/detector.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Geometry/BasicVector3D.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Geometry/Normal3D.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Geometry/Point3D.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Geometry/Transform3D.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Geometry/Transform3D.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Geometry/Vector3D.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Units/PhysicalConstants.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Units/SystemOfUnits.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Utility/defs.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/AxisAngle.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/AxisAngle.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/LorentzVector.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/LorentzVector.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/Rotation.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/Rotation.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/RotationInterfaces.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/RotationInterfaces.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/RotationX.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/RotationX.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/RotationY.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/RotationY.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/RotationZ.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/RotationZ.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/ThreeVector.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/ThreeVector.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AffineTransform.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AffineTransform.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Allocator.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AllocatorPool.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AutoLock.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4CollectionNameVector.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4DataVector.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4DataVector.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4DensityEffectCalculator.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4DynamicParticle.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4DynamicParticle.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ElectronOccupancy.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Element.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ElementTable.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ElementVector.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4EnvironmentUtils.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Exception.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ExceptionSeverity.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4GeomSplitter.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4GlobalConfig.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4HCofThisEvent.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4IonisParamElm.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4IonisParamMat.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Isotope.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4IsotopeVector.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Log.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4LogicalVolume.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4LogicalVolume.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4LorentzVector.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Material.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4MaterialPropertiesIndex.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4MaterialPropertiesTable.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4MaterialPropertyVector.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4MaterialTable.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NavigationHistory.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NavigationHistory.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NavigationHistoryPool.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NavigationLevel.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NavigationLevel.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NavigationLevelRep.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NavigationLevelRep.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4OrderedTable.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4PDefManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ParticleDefinition.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ParticleDefinition.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ParticleMomentum.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4PhysicsFreeVector.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4PhysicsModelCatalog.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4PhysicsVector.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4PhysicsVector.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4PhysicsVectorType.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Profiler.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Profiler.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ReferenceCountedHandle.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Region.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Region.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4RotationMatrix.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4SandiaTable.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4SensitiveVolumeList.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Step.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Step.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4StepPoint.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4StepPoint.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4StepStatus.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4SteppingControl.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4String.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4String.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Threading.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ThreeVector.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TouchableHandle.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TouchableHistory.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TouchableHistory.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Track.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Track.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TrackStatus.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TrackVector.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Transform3D.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Types.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VHit.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VHitsCollection.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VPhysicalVolume.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VPhysicalVolume.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VReadOutGeometry.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VSDFilter.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VSensitiveDetector.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VTouchable.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VTouchable.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VUserTrackInformation.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ios.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/PTL/Globals.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/PTL/Types.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/PTL/Utility.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/geomdefs.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/geomwdefs.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/globals.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/pwdefs.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/templates.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tls.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/trkdefs.hh
 CMakeFiles/sim.dir/generator.cc.o
  /home/sergio/Documents/simulation/generator.cc
  /home/sergio/Documents/simulation/generator.hh
@@ -206,6 +489,94 @@ CMakeFiles/sim.dir/physics.cc.o
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/rundefs.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/templates.hh
  /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tls.hh
+CMakeFiles/sim.dir/run.cc.o
+ /home/sergio/Documents/simulation/run.cc
+ /home/sergio/Documents/simulation/run.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Utility/defs.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/ThreeVector.h
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/CLHEP/Vector/ThreeVector.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AnalysisManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AnalysisManagerState.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AnalysisUtilities.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AnalysisVerbose.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ApplicationState.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4AutoLock.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4BaseAnalysisManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4BaseFileManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4BinScheme.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4EnvironmentUtils.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Exception.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ExceptionSeverity.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Fcn.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4GenericAnalysisManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4GenericAnalysisManager.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4GenericFileManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4GenericFileManager.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4GlobalConfig.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4HnInformation.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4HnManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NtupleBookingManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4NtupleBookingManager.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4String.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4String.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TH1ToolsManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TH2ToolsManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TH3ToolsManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4THnManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4THnManager.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4THnMessenger.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4THnMessenger.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4THnToolsManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4THnToolsManager.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TP1ToolsManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4TP2ToolsManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Threading.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ThreeVector.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Tokenizer.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ToolsAnalysisManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ToolsAnalysisManager.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4Types.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4UIcommand.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4UIdirectory.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4UImessenger.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4UIparameter.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4UItokenNum.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4UserRunAction.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VAnalysisManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VAnalysisManager.icc
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VFileManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VNtupleManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VTBaseHnManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4VTHnFileManager.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/G4ios.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/globals.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/templates.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tls.hh
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/cid
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/cids
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/eqT
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/forit
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/axes
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/axis
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/b1
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/b2
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/b3
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/base_histo
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/h1
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/h1d
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/h2
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/h2d
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/h3
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/h3d
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/histo_data
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/p1
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/p1d
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/p2
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/p2d
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/histo/profile_data
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/mem
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/ntuple_booking
+ /home/sergio/software/geant4/geant4-v11.1.3-install/include/Geant4/tools/typedefs
 CMakeFiles/sim.dir/sim.cc.o
  /home/sergio/Documents/simulation/action.hh
  /home/sergio/Documents/simulation/construction.hh

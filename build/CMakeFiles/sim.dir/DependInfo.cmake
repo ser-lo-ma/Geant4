@@ -6,8 +6,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/sergio/Documents/simulation/action.cc" "/home/sergio/Documents/simulation/build/CMakeFiles/sim.dir/action.cc.o"
   "/home/sergio/Documents/simulation/construction.cc" "/home/sergio/Documents/simulation/build/CMakeFiles/sim.dir/construction.cc.o"
+  "/home/sergio/Documents/simulation/detector.cc" "/home/sergio/Documents/simulation/build/CMakeFiles/sim.dir/detector.cc.o"
   "/home/sergio/Documents/simulation/generator.cc" "/home/sergio/Documents/simulation/build/CMakeFiles/sim.dir/generator.cc.o"
   "/home/sergio/Documents/simulation/physics.cc" "/home/sergio/Documents/simulation/build/CMakeFiles/sim.dir/physics.cc.o"
+  "/home/sergio/Documents/simulation/run.cc" "/home/sergio/Documents/simulation/build/CMakeFiles/sim.dir/run.cc.o"
   "/home/sergio/Documents/simulation/sim.cc" "/home/sergio/Documents/simulation/build/CMakeFiles/sim.dir/sim.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

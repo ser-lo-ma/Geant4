@@ -1,21 +1,20 @@
 #include"generator.hh"
 
-
 MyPrimaryGenerator::MyPrimaryGenerator(){
 //Creates only one particle per event run
     fParticleGun = new G4ParticleGun(1);
 }
 
-
+// Destructor
 MyPrimaryGenerator::~MyPrimaryGenerator(){
     delete fParticleGun;
 }
 
 void MyPrimaryGenerator::GeneratePrimaries(G4Event *anEvent){
 // Create the definition of the particle from the particle table
-    G4ParticleTable *particletable = G4ParticleTable::GetParticletable();
-    G4string particleName = "proton";
-    G4ParticleDefinition *particle = particleTable -> FindParticle(particleName);
+    G4ParticleTable *particletable = G4ParticleTable::GetParticleTable();
+    G4String particleName = "proton";
+    G4ParticleDefinition *particle = particletable -> FindParticle(particleName);
 
 
 // Create the vector for the position of the particle and the direction of its momentum
